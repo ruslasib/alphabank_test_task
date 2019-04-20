@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59bdf936-21fd-4ac6-a869-1f78deb95a10" name="Default Changelist" comment="" />
+    <list default="true" id="59bdf936-21fd-4ac6-a869-1f78deb95a10" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/testautomation/.gradle/" />
+    <ignored path="$PROJECT_DIR$/testautomation/build/" />
+    <ignored path="$PROJECT_DIR$/testautomation/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,24 +19,80 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/arrangement/src/main/java/NumberArrangementLauncher.java">
+        <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/tests/SearchSamsungPhoneTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arrangement/src/main/java/NumberArrangement.java">
+        <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/tests/SearchBeatsHeadphoneTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-26">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            <state relative-caret-position="170">
+              <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/tests/TestBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/manager/YandexManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#86#87#0" expanded="true" />
+                <element signature="e#117#118#0" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#1197#1198#0" expanded="true" />
+                <element signature="e#1223#1224#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/manager/YandexBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="708">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,15 +116,22 @@
         <option value="$PROJECT_DIR$/arrangement/src/main/java/Helper.java" />
         <option value="$PROJECT_DIR$/arrangement/src/main/java/NumberArrangementLauncher.java" />
         <option value="$PROJECT_DIR$/arrangement/src/main/java/NumberArrangement.java" />
+        <option value="$PROJECT_DIR$/testautomation/src/test/java/tests/TestBase.java" />
+        <option value="$PROJECT_DIR$/testautomation/src/test/java/tests/SearchBeatsHeadphoneTest.java" />
+        <option value="$PROJECT_DIR$/testautomation/src/test/java/tests/SearchSamsungPhoneTest.java" />
+        <option value="$PROJECT_DIR$/testautomation/src/test/java/manager/YandexBase.java" />
+        <option value="$PROJECT_DIR$/testautomation/src/test/java/manager/YandexManager.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="597" />
-    <option name="width" value="1330" />
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
     <option name="height" value="1167" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -86,6 +155,36 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="alphabank_test_task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testautomation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="alphabank_test_task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testautomation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alphabank_test_task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testautomation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="alphabank_test_task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testautomation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alphabank_test_task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testautomation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -95,12 +194,20 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555763794629" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555780277261" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/testautomation/build.gradle" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="manager" />
+      <recent name="tests" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,7 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumberArrangementLauncher">
+  <component name="RunManager" selected="TestNG.SearchSamsungPhoneTest.testSearchSamsungPhone">
     <configuration name="Helper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.Helper" />
       <module name="arrangement" />
@@ -141,8 +248,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SearchBeatsHeadphoneTest.testSearchBeatsHeadphone" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testautomation.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SearchBeatsHeadphoneTest" />
+      <option name="METHOD_NAME" value="testSearchBeatsHeadphone" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchSamsungPhoneTest.testSearchSamsungPhone" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testautomation.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SearchSamsungPhoneTest" />
+      <option name="METHOD_NAME" value="testSearchSamsungPhone" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SearchSamsungPhoneTest.testSearchSamsungPhone" />
+        <item itemvalue="TestNG.SearchBeatsHeadphoneTest.testSearchBeatsHeadphone" />
         <item itemvalue="Application.NumberArrangementLauncher" />
         <item itemvalue="Application.Helper" />
       </list>
@@ -160,6 +305,38 @@
       <updated>1555739729256</updated>
     </task>
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SearchSamsungPhoneTest_testSearchSamsungPhone - 2019.04.20 at 20h 55m 45s.xml">
+      <configuration name="SearchSamsungPhoneTest.testSearchSamsungPhone" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchSamsungPhoneTest_testSearchSamsungPhone - 2019.04.20 at 20h 57m 36s.xml">
+      <configuration name="SearchSamsungPhoneTest.testSearchSamsungPhone" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchSamsungPhoneTest_testSearchSamsungPhone - 2019.04.20 at 20h 59m 21s.xml">
+      <configuration name="SearchSamsungPhoneTest.testSearchSamsungPhone" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchSamsungPhoneTest_testSearchSamsungPhone - 2019.04.20 at 21h 00m 08s.xml">
+      <configuration name="SearchSamsungPhoneTest.testSearchSamsungPhone" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchSamsungPhoneTest_testSearchSamsungPhone - 2019.04.20 at 21h 02m 37s.xml">
+      <configuration name="SearchSamsungPhoneTest.testSearchSamsungPhone" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchSamsungPhoneTest_testSearchSamsungPhone - 2019.04.20 at 21h 04m 07s.xml">
+      <configuration name="SearchSamsungPhoneTest.testSearchSamsungPhone" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchSamsungPhoneTest_testSearchSamsungPhone - 2019.04.20 at 21h 05m 08s.xml">
+      <configuration name="SearchSamsungPhoneTest.testSearchSamsungPhone" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchBeatsHeadphoneTest_testSearchBeatsHeadphone - 2019.04.20 at 21h 05m 51s.xml">
+      <configuration name="SearchBeatsHeadphoneTest.testSearchBeatsHeadphone" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchBeatsHeadphoneTest_testSearchBeatsHeadphone - 2019.04.20 at 21h 06m 41s.xml">
+      <configuration name="SearchBeatsHeadphoneTest.testSearchBeatsHeadphone" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchBeatsHeadphoneTest_testSearchBeatsHeadphone - 2019.04.20 at 21h 08m 01s.xml">
+      <configuration name="SearchBeatsHeadphoneTest.testSearchBeatsHeadphone" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -179,17 +356,17 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.11353944" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.11353944" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="bottom" id="Build" weight="0.3326886" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.32978722" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32885906" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32694152" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39941972" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3240652" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3988495" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32978722" />
@@ -222,6 +399,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/arrangement/src/main/java/NumberArrangementLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/arrangement/src/main/java/NumberArrangement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-26">
@@ -232,10 +416,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/arrangement/src/main/java/NumberArrangementLauncher.java">
+    <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/tests/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="170">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/manager/YandexBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="708">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/tests/SearchBeatsHeadphoneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/manager/YandexManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#1197#1198#0" expanded="true" />
+            <element signature="e#1223#1224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/tests/SearchSamsungPhoneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>

@@ -6,6 +6,10 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.BrowserType;
 
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+
 import static java.util.concurrent.TimeUnit.SECONDS;
 
 public class YandexManager {
@@ -43,4 +47,12 @@ public class YandexManager {
   public YandexBase getYandexBase() {
     return yandexBase;
   }
+
+  public String getTestStartTime() {
+    DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
+    Calendar cal = Calendar.getInstance();
+    System.out.println(dateFormat.format(cal.getTime()));
+    return dateFormat.format(cal.getTime());
+  }
+
 }

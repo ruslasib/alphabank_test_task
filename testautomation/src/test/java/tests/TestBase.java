@@ -12,10 +12,11 @@ public class TestBase {
 
   @BeforeMethod
   public void setUp() {
+    yandexManager.getTestStartTime();
     yandexManager.init();
   }
 
-  @AfterMethod
+  @AfterMethod(alwaysRun = true)
   public void tearDown() {
     yandexManager.stop();
   }

@@ -65,12 +65,4 @@ public class NumberArrangement {
     readFile(name);
     return arrayOfNums;
   }
-
-  public void print(int[] array) {
-    System.out.println("Array of numbers via print method: ");
-    for (int i : array) {
-      System.out.print(i + " ");
-    }
-    System.out.println();
-  }
 }

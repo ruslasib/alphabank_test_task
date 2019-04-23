@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59bdf936-21fd-4ac6-a869-1f78deb95a10" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testautomation/src/test/java/manager/Draft1.java" beforeDir="false" afterPath="$PROJECT_DIR$/testautomation/src/test/java/manager/Draft1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testautomation/src/test/java/manager/WebpageBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/testautomation/src/test/java/manager/WebpageBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testautomation/src/test/java/manager/YandexBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/testautomation/src/test/java/manager/YandexBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testautomation/src/test/java/manager/YandexManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/testautomation/src/test/java/manager/YandexManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testautomation/src/test/java/tests/AlphaBankAboutUsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testautomation/src/test/java/tests/AlphaBankAboutUsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testautomation/src/test/java/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/testautomation/src/test/java/tests/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrangement/src/main/java/NumberArrangement.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrangement/src/main/java/NumberArrangement.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/testautomation/.gradle/" />
     <ignored path="$PROJECT_DIR$/testautomation/build/" />
@@ -32,110 +26,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/tests/SearchSamsungPhoneTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/manager/YandexManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-331">
-              <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1592#1593#0" expanded="true" />
-                <element signature="e#1822#1823#0" expanded="true" />
-                <element signature="e#1850#1851#0" expanded="true" />
-                <element signature="e#1883#1884#0" expanded="true" />
-                <element signature="e#1907#1908#0" expanded="true" />
-                <element signature="e#1941#1942#0" expanded="true" />
-                <element signature="e#1965#1966#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/tests/TestBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/manager/YandexBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="901">
-              <caret line="69" column="20" lean-forward="true" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/manager/WebpageBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="85" column="27" lean-forward="true" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2318#2319#0" expanded="true" />
-                <element signature="e#2368#2369#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/tests/AlphaBankAboutUsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/manager/Draft.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/manager/Draft1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -152,24 +43,24 @@
       <list>
         <option value="$PROJECT_DIR$/arrangement/src/main/java/Helper.java" />
         <option value="$PROJECT_DIR$/arrangement/src/main/java/NumberArrangementLauncher.java" />
-        <option value="$PROJECT_DIR$/arrangement/src/main/java/NumberArrangement.java" />
         <option value="$PROJECT_DIR$/testautomation/src/test/java/tests/SearchBeatsHeadphoneTest.java" />
         <option value="$PROJECT_DIR$/testautomation/src/test/java/tests/SearchSamsungPhoneTest.java" />
         <option value="$PROJECT_DIR$/testautomation/src/test/java/manager/PutTextInFIle.java" />
         <option value="$PROJECT_DIR$/testautomation/src/test/java/tests/PutTextInFIle.java" />
         <option value="$PROJECT_DIR$/testautomation/src/test/java/tests/PutTextInFIleTest.java" />
         <option value="$PROJECT_DIR$/testautomation/src/test/java/manager/AlphaBankBase.java" />
-        <option value="$PROJECT_DIR$/testautomation/src/test/java/manager/Draft.java" />
         <option value="$PROJECT_DIR$/testautomation/src/test/java/manager/Draft1.java" />
         <option value="$PROJECT_DIR$/testautomation/src/test/java/manager/YandexBase.java" />
-        <option value="$PROJECT_DIR$/testautomation/src/test/java/manager/WebpageBase.java" />
         <option value="$PROJECT_DIR$/testautomation/src/test/java/manager/YandexManager.java" />
         <option value="$PROJECT_DIR$/testautomation/src/test/java/tests/TestBase.java" />
         <option value="$PROJECT_DIR$/testautomation/src/test/java/tests/AlphaBankAboutUsTest.java" />
+        <option value="$PROJECT_DIR$/testautomation/src/test/java/manager/WebpageBase.java" />
+        <option value="$PROJECT_DIR$/testautomation/src/test/java/manager/Draft.java" />
+        <option value="$PROJECT_DIR$/arrangement/src/main/java/NumberArrangement.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1167" />
@@ -204,6 +95,32 @@
               <item name="alphabank_test_task" type="b2602c69:ProjectViewProjectNode" />
               <item name="testautomation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="alphabank_test_task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testautomation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alphabank_test_task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testautomation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="alphabank_test_task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testautomation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alphabank_test_task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testautomation" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -213,7 +130,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556036260895" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556043713005" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/testautomation/build.gradle" />
@@ -240,14 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.AlphaBankAboutUsTest.testAlphaBankAboutUs">
-    <configuration name="Draft1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Draft1" />
-      <module name="testautomation.test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.SearchSamsungPhoneTest.testSearchSamsungPhone">
     <configuration name="Draft1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="manager.Draft1" />
       <module name="testautomation.test" />
@@ -292,17 +202,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Draft.writeFile" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SearchBeatsHeadphoneTest.testSearchBeatsHeadphone" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testautomation.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="manager.*" />
+          <option name="PATTERN" value="tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="manager" />
-      <option name="MAIN_CLASS_NAME" value="manager.Draft" />
-      <option name="METHOD_NAME" value="writeFile" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SearchBeatsHeadphoneTest" />
+      <option name="METHOD_NAME" value="testSearchBeatsHeadphone" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchSamsungPhoneTest.testSearchSamsungPhone" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testautomation.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SearchSamsungPhoneTest" />
+      <option name="METHOD_NAME" value="testSearchSamsungPhone" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -312,11 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SearchSamsungPhoneTest.testSearchSamsungPhone" />
+        <item itemvalue="TestNG.SearchBeatsHeadphoneTest.testSearchBeatsHeadphone" />
         <item itemvalue="TestNG.AlphaBankAboutUsTest.testAlphaBankAboutUs" />
-        <item itemvalue="Application.Draft1" />
-        <item itemvalue="Application.Draft1 (1)" />
         <item itemvalue="Application.NumberArrangementLauncher" />
-        <item itemvalue="TestNG.Draft.writeFile" />
+        <item itemvalue="Application.Draft1" />
       </list>
     </recent_temporary>
   </component>
@@ -334,18 +262,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Draft_writeFile - 2019.04.22 at 22h 22m 39s.xml">
-      <configuration name="Draft.writeFile" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Draft_writeFile - 2019.04.22 at 22h 23m 50s.xml">
-      <configuration name="Draft.writeFile" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Draft_writeFile - 2019.04.22 at 22h 29m 34s.xml">
-      <configuration name="Draft.writeFile" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Draft_writeFile - 2019.04.22 at 22h 29m 44s.xml">
-      <configuration name="Draft.writeFile" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="Draft_writeFile - 2019.04.22 at 22h 29m 48s.xml">
       <configuration name="Draft.writeFile" configurationId="TestNG" />
     </history-entry>
@@ -364,6 +280,18 @@
     <history-entry file="AlphaBankAboutUsTest_testAlphaBankAboutUs - 2019.04.23 at 20h 09m 17s.xml">
       <configuration name="AlphaBankAboutUsTest.testAlphaBankAboutUs" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="AlphaBankAboutUsTest_testAlphaBankAboutUs - 2019.04.23 at 20h 17m 35s.xml">
+      <configuration name="AlphaBankAboutUsTest.testAlphaBankAboutUs" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AlphaBankAboutUsTest_testAlphaBankAboutUs - 2019.04.23 at 22h 19m 52s.xml">
+      <configuration name="AlphaBankAboutUsTest.testAlphaBankAboutUs" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchBeatsHeadphoneTest_testSearchBeatsHeadphone - 2019.04.23 at 22h 21m 39s.xml">
+      <configuration name="SearchBeatsHeadphoneTest.testSearchBeatsHeadphone" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchSamsungPhoneTest_testSearchSamsungPhone - 2019.04.23 at 22h 22m 22s.xml">
+      <configuration name="SearchSamsungPhoneTest.testSearchSamsungPhone" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -376,14 +304,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.11727079" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.1663113" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -459,44 +386,35 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/arrangement/src/main/java/Helper.java" />
-    <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/tests/SearchBeatsHeadphoneTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/manager/AlphaBankBase.java" />
     <entry file="file://$PROJECT_DIR$/testautomation/Testfile.txt" />
     <entry file="file://$PROJECT_DIR$/testautomation/123.txt" />
     <entry file="file://$PROJECT_DIR$/123.txt" />
     <entry file="file://$PROJECT_DIR$/success.txt" />
-    <entry file="file://$PROJECT_DIR$/arrangement/src/main/java/NumberArrangement.java">
+    <entry file="file://$PROJECT_DIR$/example.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testautomation/20190423_195201_chrome_yandex.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testautomation/20190423_195645_chrome_yandex.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testautomation/20190423_200902_chrome_yandex.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testautomation/20190423_201720_chrome_yandex.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/manager/Draft.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arrangement/src/main/java/NumberArrangementLauncher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="75" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/tests/SearchSamsungPhoneTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/manager/Draft1.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -508,30 +426,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/manager/Draft.java">
+    <entry file="file://$PROJECT_DIR$/arrangement/src/main/java/NumberArrangement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="901">
+          <caret line="53" column="3" lean-forward="true" selection-start-line="53" selection-start-column="3" selection-end-line="53" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testautomation/20190423_195201_chrome_yandex.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testautomation/20190423_195645_chrome_yandex.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/manager/WebpageBase.java">
+    <entry file="file://$PROJECT_DIR$/arrangement/src/main/java/NumberArrangementLauncher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="85" column="27" lean-forward="true" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/manager/YandexManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2318#2319#0" expanded="true" />
-            <element signature="e#2368#2369#0" expanded="true" />
+            <element signature="e#1565#1566#0" expanded="true" />
+            <element signature="e#1592#1593#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -546,40 +465,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/tests/TestBase.java">
+    <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/manager/WebpageBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="765">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/manager/YandexManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-331">
-          <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1592#1593#0" expanded="true" />
-            <element signature="e#1822#1823#0" expanded="true" />
-            <element signature="e#1850#1851#0" expanded="true" />
-            <element signature="e#1883#1884#0" expanded="true" />
-            <element signature="e#1907#1908#0" expanded="true" />
-            <element signature="e#1941#1942#0" expanded="true" />
-            <element signature="e#1965#1966#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testautomation/20190423_200902_chrome_yandex.txt">
+    <entry file="file://$PROJECT_DIR$/testautomation/20190423_221934_chrome_yandex.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/tests/AlphaBankAboutUsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/tests/SearchBeatsHeadphoneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/tests/SearchSamsungPhoneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testautomation/src/test/java/tests/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

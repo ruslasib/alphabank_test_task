@@ -3,11 +3,7 @@ package manager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-import java.io.FileWriter;
 import java.io.IOException;
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
 
 public class YandexBase extends WebpageBase {
 
@@ -65,11 +61,12 @@ public class YandexBase extends WebpageBase {
     click(By.xpath("//a[@href='http://job.alfabank.ru/']"));
   }
 
-  public void writeAboutUsText(String name) throws IOException {
-    FileWriter file = new FileWriter(name, true);
-    writeTextIntoFile(file, By.tagName("h3"));
-    writeTextIntoFile(file, By.xpath("//*[@id=\"content\"]/div[2]/div/div[1]/p[1]"));
-    writeTextIntoFile(file, By.xpath("//*[@id=\"content\"]/div[2]/div/div[1]/p[2]"));
-    writeTextIntoFile(file, By.xpath("//*[@id=\"content\"]/div[2]/div/div[1]/p[3]"));
+  public void writeAboutUsText(String timeLog, String browser, String searchSystem) throws IOException {
+    String[] str = new String[4];
+    str[0] = getText(By.tagName("h3"));
+    str[1] = getText(By.xpath("//*[@id=\"content\"]/div[2]/div/div[1]/p[1]"));
+    str[2] = getText(By.xpath("//*[@id=\"content\"]/div[2]/div/div[1]/p[2]"));
+    str[3] = getText(By.xpath("//*[@id=\"content\"]/div[2]/div/div[1]/p[3]"));
+    writeFile(timeLog, browser, searchSystem, str);
   }
 }

@@ -5,6 +5,8 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 
+import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Set;
@@ -44,14 +46,13 @@ public class WebpageBase {
   }
 
   public void switchWindow() {
-    //Get all window handles
     Set<String> allHandles = wd.getWindowHandles();
 
     //count the handles Here count is=2
     //System.out.println("Count of windows:"+allHandles.size());
 
     //Get current handle or default handle
-    String currentWindowHandle = allHandles.iterator().next();
+    //String currentWindowHandle = allHandles.iterator().next();
     //System.out.println("currentWindow Handle"+currentWindowHandle);
 
     //Remove first/default Handle
@@ -67,8 +68,22 @@ public class WebpageBase {
     //wd.findElement(By.tagName("body")).click();
   }
 
-  public void writeTextIntoFile(FileWriter file, By h3) throws IOException {
-    file.write(getText(h3));
+  public void writeFile(String timeLog, String browser, String searchSystem, String[] arrayOfText) throws IOException {        BufferedWriter writer = null;
+    try {
+      File logFile = new File(timeLog + "_" + browser + "_" + searchSystem + ".txt");
+
+      writer = new BufferedWriter(new FileWriter(logFile));
+      for(String str: arrayOfText) {
+        writer.write(str + "\n");
+      }
+    } catch (Exception e) {
+      e.printStackTrace();
+    } finally {
+      try {
+        writer.close();
+      } catch (Exception e) {
+      }
+    }
   }
 
   public String getText(By locator) {

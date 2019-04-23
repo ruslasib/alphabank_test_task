@@ -17,16 +17,22 @@ public class YandexManager {
   private String browser;
   private WebDriver wd;
   private YandexBase yandexBase;
+  private String searchSystem;
+  private String url;
+  private String timeLog;
 
-  public YandexManager(String browser) {
+  public YandexManager(String timeLog, String browser, String searchSystem) {
     this.browser = browser;
+    this.searchSystem = searchSystem;
+    this.timeLog = timeLog;
   }
 
   public void init() {
     definingBrowser();
+    definingSearchSystem();
     wd.manage().timeouts().implicitlyWait(5, SECONDS);
     wd.manage().window().maximize();
-    wd.get("https://yandex.ru/");
+    wd.get(url);
     yandexBase = new YandexBase(wd);
   }
 
@@ -44,6 +50,14 @@ public class YandexManager {
     }
   }
 
+  private void definingSearchSystem() {
+    if (searchSystem.equals("yandex")) {
+      url = "https://yandex.ru/";
+    } else if (searchSystem.equals("google")) {
+      url = "https://google.com/";
+    }
+  }
+
   public YandexBase getYandexBase() {
     return yandexBase;
   }
@@ -53,6 +67,18 @@ public class YandexManager {
     Calendar cal = Calendar.getInstance();
     System.out.println(dateFormat.format(cal.getTime()));
     return dateFormat.format(cal.getTime());
+  }
+
+  public String getSearchSystem() {
+    return searchSystem;
+  }
+
+  public String getBrowser() {
+    return browser;
+  }
+
+  public String getTimeLog() {
+    return timeLog;
   }
 
 }

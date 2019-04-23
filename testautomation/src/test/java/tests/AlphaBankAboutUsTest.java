@@ -13,6 +13,6 @@ public class AlphaBankAboutUsTest extends TestBase {
     yandexManager.getYandexBase().switchWindow();
     yandexManager.getYandexBase().scrollPageDown();
     yandexManager.getYandexBase().clickJobButton();
-    yandexManager.getYandexBase().writeAboutUsText("Testfile.txt");
+    yandexManager.getYandexBase().writeAboutUsText(yandexManager.getTimeLog(), yandexManager.getBrowser(), yandexManager.getSearchSystem());
   }
 }
